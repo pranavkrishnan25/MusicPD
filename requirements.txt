@@ -1,0 +1,4 @@
+python -m pip install --only-binary :all: pdkit tsfresh praat-parselmouth pandas-validator soundfile flask flask_socketio python-dotenv seaborn
+
+python -m pip install future 
+python -m pip install eventlet
