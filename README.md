@@ -1,4 +1,6 @@
-# MusicPD: Auditory Rhythmic Therapy for Parkinsons Disease- Utilize RNN networks to identify changes in gait/stride length and subsequently cue songs correlated to walking speed/heart rate preceding gait changes
+# MusicPD
+
+##: Auditory Rhythmic Therapy for Parkinsons Disease- Utilize RNN networks to identify changes in gait/stride length and subsequently cue songs correlated to walking speed/heart rate preceding gait changes
 
 ## Aspects of Application
 
